@@ -12,7 +12,7 @@ public class GittingAround {
     }
 
     public static void sayHello() {
-        System.out.println("Hello Git");
+        System.out.println("Hello");
     }
 
     public static void print() {
